@@ -8,9 +8,8 @@
 - 📫 How to reach me **cabhishek1304@gmail.com**
 
 <h3 align="left">My Coding Profile</h3>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="c" width="40" height="40"/></a>
-- Hackerrank : https://www.hackerrank.com/profile/cabhishek1304
+ <a href="https://www.hackerrank.com/profile/cabhishek1304" target="_blank" rel="noreferrer"> 
+<img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="c" width="125" height="50"/></a>
 <p align="left">
 </p>
 
