@@ -8,8 +8,31 @@
 - 📫 How to reach me **cabhishek1304@gmail.com**
 
 <h3 align="left">My Coding Profile</h3>
+<h4 align="left">Main</h4>
  <a href="https://www.hackerrank.com/profile/cabhishek1304" target="_blank" rel="noreferrer"> 
 <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="c" width="125" height="50"/></a>
+<p align="left">
+</p>
+<h4 align="left">Others</h4>
+<a href="https://www.geeksforgeeks.org/user/cabhishohfa/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="c" width="125" height="50"/></a>
+<p align="left">
+</p>
+
+<a href="https://codeforces.com/profile/cabhishek1304" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="c" width="125" height="50"/></a>
+<p align="left">
+</p>
+
+<a href="https://leetcode.com/u/cabhishek1304/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="c" width="125" height="50"/></a>
+<p align="left">
+</p>
+
+<h3 align="left">My Data Science Profile</h3>
+
+<a href="https://www.kaggle.com/abhishekchandurkar" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="c" width="125" height="50"/></a>
 <p align="left">
 </p>
 
