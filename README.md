@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek Prashant Chandurkar</h1>
 <h3 align="center">A passionate problem-solver.</h3>
 
-- 🔭 I’m currently working on **Graphs**
+- 🔭 I’m currently working on **Problem Solving from various Online Sources**
 
-- 🌱 I’m currently learning **Problem-Solving**
+- 🌱 I’m currently learning **Machine Learning and Python**
 
 - 📫 How to reach me **cabhishek1304@gmail.com**
+
+<h3 align="left">My DSA Solved Questions Repository</h3>
+<h4><a href="https://github.com/Ccode104/DSA-Practice">DSA Practice</a></h4>
+
 
 <h3 align="left">My Coding Profile</h3>
 <h4 align="left">Main</h4>
