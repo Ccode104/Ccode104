@@ -11,12 +11,11 @@
 <h4><a href="https://github.com/Ccode104/DSA-Practice">DSA Practice</a></h4>
 
 <h3 align="left">My Coding Profile</h3>
-<h4 align="left">Main</h4>
- <a href="https://www.hackerrank.com/profile/cabhishek1304" target="_blank" rel="noreferrer"> 
+
+<a href="https://www.hackerrank.com/profile/cabhishek1304" target="_blank" rel="noreferrer"> 
 <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="c" width="125" height="50"/></a>
 <p align="left">
 </p>
-<h4 align="left">Others</h4>
 <a href="https://www.geeksforgeeks.org/user/cabhishohfa/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="c" width="125" height="50"/></a>
 <p align="left">
