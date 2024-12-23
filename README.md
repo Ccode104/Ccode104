@@ -9,6 +9,8 @@
 
 <h3 align="left">My DSA Solved Questions Repository</h3>
 <h4><a href="https://github.com/Ccode104/DSA-Practice">DSA Practice</a></h4>
+<h4><a href="https://github.com/Ccode104/Striver-A2Z-Sheet">Striver A2Z Sheet (Currently Solving)</a></h4>
+<h4><a href="https://github.com/Ccode104/Geeks-For-Geeks">Geeks-For-Geeks</a></h4>
 
 <h3 align="left">My Coding Profile</h3>
 
